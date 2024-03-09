@@ -1,7 +1,7 @@
 
 # API de Localização e Clima
 
-Esta é uma API simples criada para fornecer informações específicas sobre cidades globalmente. Através dela, os usuários podem acessar dados atualizados sobre a cidade escolhida, incluindo coordenadas geográficas, temperatura atual e outras informações sobre várias cidades ao redor do mundo.
+Esta é uma API simples criada para fornecer informações específicas sobre cidades globalmente. Através dela, os usuários podem acessar dados atualizados sobre a cidade escolhida, incluindo coordenadas geográficas, temperatura atual e outras informações sobre diversas cidades ao redor do mundo.
 
 
 ## Tecnologias Utilizadas
@@ -35,7 +35,6 @@ Finalmente, poderemos rodar o projeto, no terminal, digite:
   python .\manage.py runserver
 ```
 
-
 ## Uso da Aplicação
 
 Para usar esta ferramenta, é necessário acessar a url: http://127.0.0.1:8000/
@@ -45,5 +44,5 @@ Após acessar a url, você já está na página principal do projeto. Podendo fa
 Para acessar informações sobre uma cidade específica, insira o nome da cidade na barra de pesquisa e envie a solicitação. Os dados da cidade serão exibidos no campo abaixo, incluindo o código do país, coordenadas geográficas, temperatura atual (C°), sensação térmica, umidade do ar e pressão atmosférica.
 
 
-> [!WARNING]
-> Por favor, observe atentamente as informações sobre caracteres especiais abaixo da barra de pesquisa. O funcionamento adequado da API pode ser comprometido se as instruções não forem seguidas estritamente.
+> [!IMPORTANT]
+> Observe atentamente as informações sobre caracteres especiais abaixo da barra de pesquisa. O funcionamento adequado da API pode ser comprometido se as instruções não forem seguidas estritamente.
