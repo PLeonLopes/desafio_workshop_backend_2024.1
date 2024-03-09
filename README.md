@@ -46,4 +46,4 @@ Para acessar informações sobre uma cidade específica, insira o nome da cidade
 
 
 > [!WARNING]
-> Por favor, observe atentamente as informações sobre caracteres abaixo da barra de pesquisa. O funcionamento adequado da API pode ser comprometido se as instruções não forem seguidas estritamente.
+> Por favor, observe atentamente as informações sobre caracteres especiais abaixo da barra de pesquisa. O funcionamento adequado da API pode ser comprometido se as instruções não forem seguidas estritamente.
